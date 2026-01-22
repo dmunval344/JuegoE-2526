@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"sDragon","order":1,"path":"sprites/sDragon/sDragon.yy",},
+  ],
 }
