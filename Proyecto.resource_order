@@ -1,4 +1,6 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"objetos","order":1,"path":"folders/objetos.yy",},
+  ],
   "ResourceOrderSettings":[],
 }
