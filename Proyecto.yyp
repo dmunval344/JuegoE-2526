@@ -23,6 +23,7 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sDragon","path":"sprites/sDragon/sDragon.yy",},},
+    {"id":{"name":"sDragon2","path":"sprites/sDragon2/sDragon2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
