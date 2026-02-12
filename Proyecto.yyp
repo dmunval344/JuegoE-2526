@@ -23,6 +23,7 @@
   "resources":[
     {"id":{"name":"cueva","path":"objects/cueva/cueva.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"rcueva","path":"rooms/rcueva/rcueva.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sPlayerPrueba","path":"sprites/sPlayerPrueba/sPlayerPrueba.yy",},},
   ],
@@ -30,6 +31,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rcueva","path":"rooms/rcueva/rcueva.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
