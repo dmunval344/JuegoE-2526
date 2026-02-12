@@ -26,6 +26,7 @@
   "resources":[
     {"id":{"name":"cueva","path":"objects/cueva/cueva.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"rcueva","path":"rooms/rcueva/rcueva.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"__Attack","path":"sprites/__Attack/__Attack.yy",},},
     {"id":{"name":"__Attack2","path":"sprites/__Attack2/__Attack2.yy",},},
@@ -60,6 +61,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rcueva","path":"rooms/rcueva/rcueva.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

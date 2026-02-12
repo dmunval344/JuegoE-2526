@@ -6,6 +6,7 @@
   "ResourceOrderSettings":[
     {"name":"cueva","order":3,"path":"objects/cueva/cueva.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"rcueva","order":4,"path":"rooms/rcueva/rcueva.yy",},
     {"name":"__Attack2","order":5,"path":"sprites/__Attack2/__Attack2.yy",},
     {"name":"__Attack2NoMovement","order":6,"path":"sprites/__Attack2NoMovement/__Attack2NoMovement.yy",},
     {"name":"__AttackCombo2hit","order":7,"path":"sprites/__AttackCombo2hit/__AttackCombo2hit.yy",},
