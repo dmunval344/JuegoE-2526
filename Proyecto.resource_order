@@ -25,6 +25,7 @@
     {"name":"__Idle","order":20,"path":"sprites/__Idle/__Idle.yy",},
     {"name":"__Jump","order":21,"path":"sprites/__Jump/__Jump.yy",},
     {"name":"__Roll","order":23,"path":"sprites/__Roll/__Roll.yy",},
+    {"name":"__Run_l","order":29,"path":"sprites/__Run_l/__Run_l.yy",},
     {"name":"__Run","order":24,"path":"sprites/__Run/__Run.yy",},
     {"name":"__Slide","order":25,"path":"sprites/__Slide/__Slide.yy",},
     {"name":"__SlideAll","order":26,"path":"sprites/__SlideAll/__SlideAll.yy",},
@@ -32,6 +33,8 @@
     {"name":"__SlideTransitionStart","order":28,"path":"sprites/__SlideTransitionStart/__SlideTransitionStart.yy",},
     {"name":"__WallClimb","order":1,"path":"sprites/__WallClimb/__WallClimb.yy",},
     {"name":"__WallSlide","order":4,"path":"sprites/__WallSlide/__WallSlide.yy",},
+    {"name":"Senemigo","order":1,"path":"sprites/Senemigo/Senemigo.yy",},
+    {"name":"shuriken","order":2,"path":"sprites/shuriken/shuriken.yy",},
     {"name":"sPlayerPrueba","order":2,"path":"sprites/sPlayerPrueba/sPlayerPrueba.yy",},
   ],
 }
