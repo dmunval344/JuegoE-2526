@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
-    {"name":"grupo1","order":4,"path":"folders/grupo1.yy",},
+    {"name":"Personaje","order":4,"path":"folders/Personaje.yy",},
+    {"name":"Enemigos","order":5,"path":"folders/Enemigos.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"cueva","order":3,"path":"objects/cueva/cueva.yy",},
@@ -22,7 +23,6 @@
     {"name":"__Hit","order":19,"path":"sprites/__Hit/__Hit.yy",},
     {"name":"__Idle","order":20,"path":"sprites/__Idle/__Idle.yy",},
     {"name":"__Jump","order":21,"path":"sprites/__Jump/__Jump.yy",},
-    {"name":"__JumpFallInbetween","order":22,"path":"sprites/__JumpFallInbetween/__JumpFallInbetween.yy",},
     {"name":"__Roll","order":23,"path":"sprites/__Roll/__Roll.yy",},
     {"name":"__Run","order":24,"path":"sprites/__Run/__Run.yy",},
     {"name":"__Slide","order":25,"path":"sprites/__Slide/__Slide.yy",},
@@ -30,8 +30,6 @@
     {"name":"__SlideTransitionEnd","order":27,"path":"sprites/__SlideTransitionEnd/__SlideTransitionEnd.yy",},
     {"name":"__SlideTransitionStart","order":28,"path":"sprites/__SlideTransitionStart/__SlideTransitionStart.yy",},
     {"name":"__WallClimb","order":1,"path":"sprites/__WallClimb/__WallClimb.yy",},
-    {"name":"__WallClimbNoMovement","order":2,"path":"sprites/__WallClimbNoMovement/__WallClimbNoMovement.yy",},
-    {"name":"__WallHang","order":3,"path":"sprites/__WallHang/__WallHang.yy",},
     {"name":"__WallSlide","order":4,"path":"sprites/__WallSlide/__WallSlide.yy",},
     {"name":"sPlayerPrueba","order":2,"path":"sprites/sPlayerPrueba/sPlayerPrueba.yy",},
   ],

@@ -10,7 +10,8 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"grupo1","folderPath":"folders/grupo1.yy","name":"grupo1","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Personaje","folderPath":"folders/Personaje.yy","name":"Personaje","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Enemigos","folderPath":"folders/Enemigos.yy","name":"Enemigos","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
@@ -44,7 +45,6 @@
     {"id":{"name":"__Hit","path":"sprites/__Hit/__Hit.yy",},},
     {"id":{"name":"__Idle","path":"sprites/__Idle/__Idle.yy",},},
     {"id":{"name":"__Jump","path":"sprites/__Jump/__Jump.yy",},},
-    {"id":{"name":"__JumpFallInbetween","path":"sprites/__JumpFallInbetween/__JumpFallInbetween.yy",},},
     {"id":{"name":"__Roll","path":"sprites/__Roll/__Roll.yy",},},
     {"id":{"name":"__Run","path":"sprites/__Run/__Run.yy",},},
     {"id":{"name":"__Slide","path":"sprites/__Slide/__Slide.yy",},},
@@ -52,9 +52,8 @@
     {"id":{"name":"__SlideTransitionEnd","path":"sprites/__SlideTransitionEnd/__SlideTransitionEnd.yy",},},
     {"id":{"name":"__SlideTransitionStart","path":"sprites/__SlideTransitionStart/__SlideTransitionStart.yy",},},
     {"id":{"name":"__WallClimb","path":"sprites/__WallClimb/__WallClimb.yy",},},
-    {"id":{"name":"__WallClimbNoMovement","path":"sprites/__WallClimbNoMovement/__WallClimbNoMovement.yy",},},
-    {"id":{"name":"__WallHang","path":"sprites/__WallHang/__WallHang.yy",},},
     {"id":{"name":"__WallSlide","path":"sprites/__WallSlide/__WallSlide.yy",},},
+    {"id":{"name":"fox","path":"sprites/fox/fox.yy",},},
     {"id":{"name":"sPlayerPrueba","path":"sprites/sPlayerPrueba/sPlayerPrueba.yy",},},
   ],
   "resourceType":"GMProject",
