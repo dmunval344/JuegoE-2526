@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings":[
-    {"name":"Personaje","order":4,"path":"folders/Personaje.yy",},
     {"name":"Enemigos","order":5,"path":"folders/Enemigos.yy",},
+    {"name":"Personaje","order":4,"path":"folders/Personaje.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"cueva","order":3,"path":"objects/cueva/cueva.yy",},

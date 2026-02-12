@@ -1,4 +1,21 @@
 var _hor = real(keyboard_check(ord("D"))) - real(keyboard_check(ord("A")));
-var _ver = real(keyboard_check(ord("S"))) - real(keyboard_check(ord("W")));
 
-move_and_collide(_hor * move_speed, _ver * move_speed, colision, undefined, undefined, undefined, move_speed, move_speed) //or()
+
+move_and_collide(_hor * move_speed, 0, colision, undefined, undefined, undefined, move_speed, move_speed) //or()
+
+if _hor != 0
+{
+	
+	sprite_index = __Run ;
+    if (_hor < 0) {
+		image_xscale = -1;
+	}else{
+		image_xscale = 1;
+	}
+    
+   
+} else { 
+    if (sprite_index == __Run) {
+		sprite_index = __Idle;
+	}
+}

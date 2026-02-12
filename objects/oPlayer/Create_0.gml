@@ -4,6 +4,6 @@ damage = 1;
 
 facing = 0
  
-move_speed = 3
+move_speed = 2
 
 colision = [cueva,]
