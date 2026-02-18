@@ -47,7 +47,6 @@
     {"id":{"name":"__Idle","path":"sprites/__Idle/__Idle.yy",},},
     {"id":{"name":"__Jump","path":"sprites/__Jump/__Jump.yy",},},
     {"id":{"name":"__Roll","path":"sprites/__Roll/__Roll.yy",},},
-    {"id":{"name":"__Run_l","path":"sprites/__Run_l/__Run_l.yy",},},
     {"id":{"name":"__Run","path":"sprites/__Run/__Run.yy",},},
     {"id":{"name":"__Slide","path":"sprites/__Slide/__Slide.yy",},},
     {"id":{"name":"__SlideAll","path":"sprites/__SlideAll/__SlideAll.yy",},},
