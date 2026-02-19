@@ -5,5 +5,5 @@ damage = 1;
 facing = 0
  
 move_speed = 2
-
-colision = [cueva,]
+tilemap = layer_tilemap_get_id("colison")
+colision = [cueva,tilemap]
