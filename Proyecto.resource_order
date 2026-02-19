@@ -25,6 +25,7 @@
     {"name":"__Idle","order":20,"path":"sprites/__Idle/__Idle.yy",},
     {"name":"__Jump","order":21,"path":"sprites/__Jump/__Jump.yy",},
     {"name":"__Roll","order":23,"path":"sprites/__Roll/__Roll.yy",},
+    {"name":"__Run","order":30,"path":"sprites/__Run/__Run.yy",},
     {"name":"__Slide","order":25,"path":"sprites/__Slide/__Slide.yy",},
     {"name":"__SlideAll","order":26,"path":"sprites/__SlideAll/__SlideAll.yy",},
     {"name":"__SlideTransitionEnd","order":27,"path":"sprites/__SlideTransitionEnd/__SlideTransitionEnd.yy",},
