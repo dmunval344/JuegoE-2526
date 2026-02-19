@@ -12,17 +12,39 @@ if _hor != 0
 	sprite_index = __Run ;
     if (_hor < 0) {
 		image_xscale = -1;
-	}else{
+	}else
+	{
 		image_xscale = 1;
 	}
 }
-   
-if _ver >0
+if ( _hor=0)
 {
-	sprite_index = __Crouch
-}else if _ver <0{
-	sprite_index = __WallClimb
+sprite_index =__Idle;
 }
-if (_ver=0 and _hor=0){
-	sprite_index =__Idle}
-	
+if (keyboard_check_direct(vk_shift)and _hor=0)
+{
+	sprite_index= __Crouch;
+}else if (keyboard_check_released(vk_shift) and _hor=0)
+{
+	sprite_index= __Idle;
+	}
+if(_hor!=0 and keyboard_check_direct(vk_shift))
+{
+	sprite_index=__CrouchWalk;
+	 if (_hor < 0) {
+		image_xscale = -1;
+	}else
+	{
+		image_xscale = 1;
+	}
+}
+if (keyboard_check_direct(vk_space))
+{
+	sprite_index= __WallClimb;
+	_ver=_ver-3
+	_hor=_hor+1
+}
+
+if (mouse_check_button(mb_left)){
+	sprite_index=__Attack
+}

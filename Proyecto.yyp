@@ -25,6 +25,7 @@
   "name":"Proyecto",
   "resources":[
     {"id":{"name":"cueva","path":"objects/cueva/cueva.yy",},},
+    {"id":{"name":"oenemigo1","path":"objects/oenemigo1/oenemigo1.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"rcueva","path":"rooms/rcueva/rcueva.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
