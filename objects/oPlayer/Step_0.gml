@@ -1,11 +1,22 @@
 
 var _hor = real(keyboard_check(ord("D"))) - real(keyboard_check(ord("A")));
-var _ver = real(keyboard_check_direct(vk_shift)) - real(keyboard_check_direct(vk_space));
+//var _ver = real(keyboard_check_direct(vk_shift)) - real(keyboard_check_direct(vk_space));
 
-_ver = _ver +1;
+var _ver = 1;
 
-move_and_collide(_hor * move_speed, _ver, colision, undefined, undefined, undefined, move_speed, move_speed) //or()
+if place_meeting(x, y+1, tilemap)
+{
+        _ver = 0;
+        if keyboard_check(vk_space)
+        {
+                _ver = -64;      
+        }
+}
 
+
+move_and_collide(_hor * move_speed, _ver, tilemap);
+//move_and_collide(_hor * move_speed, _ver, tilemap, undefined, undefined, undefined, move_speed, move_speed); //or()
+/*
 if _hor != 0
 {
 	
@@ -41,10 +52,9 @@ if(_hor!=0 and keyboard_check_direct(vk_shift))
 if (keyboard_check_direct(vk_space))
 {
 	sprite_index= __WallClimb;
-	_ver=_ver-3
-	_hor=_hor+1
 }
 
 if (mouse_check_button(mb_left)){
 	sprite_index=__Attack
 }
+*/
