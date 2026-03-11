@@ -1,8 +1,8 @@
 
 var _hor = real(keyboard_check(ord("D"))) - real(keyboard_check(ord("A")));
-//var _ver = real(keyboard_check_direct(vk_shift)) - real(keyboard_check_direct(vk_space));
 
-var _ver = 1;
+
+var _ver = 4;
 
 if place_meeting(x, y+1, tilemap)
 {
@@ -15,8 +15,7 @@ if place_meeting(x, y+1, tilemap)
 
 
 move_and_collide(_hor * move_speed, _ver, tilemap);
-//move_and_collide(_hor * move_speed, _ver, tilemap, undefined, undefined, undefined, move_speed, move_speed); //or()
-/*
+
 if _hor != 0
 {
 	
@@ -57,4 +56,4 @@ if (keyboard_check_direct(vk_space))
 if (mouse_check_button(mb_left)){
 	sprite_index=__Attack
 }
-*/
+
